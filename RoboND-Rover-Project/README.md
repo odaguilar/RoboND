@@ -127,7 +127,7 @@ Rover.
 
 # Notebook Analysis
  
-##[Rover_Project_Test_Notebook.ipynb](./code/Rover_Project_Test_Notebook.ipynb) 
+## [Rover_Project_Test_Notebook.ipynb](./code/Rover_Project_Test_Notebook.ipynb) 
  
 #### color_thresh( ) `Original`
 
