@@ -16,7 +16,7 @@ This project is modeled after the [NASA sample return challenge](https://www.nas
 ##### Project Rubric
 * The rover must map at least 40% of the environment with 60% fidelity (accuracy) against the ground truth. You must also find (map) the location of at least one rock sample.
 
-![ ](/home/omar/git/RoboND/RoboND-Rover-Project/misc/rover.gif  "rover") 
+![ ](./misc/rover_intro.gif "rover") 
  
 # ¿What Do You Need To Start?
  
